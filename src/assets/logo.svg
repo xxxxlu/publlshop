@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background decorative elements - blue waves -->
+  <path d="M10,45 C20,55 40,55 50,45 C60,35 80,35 90,45 C100,55 120,55 130,45 C140,35 160,35 170,45 C180,55 190,50 195,40" 
+        fill="none" stroke="#e6f7ff" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Logo Text -->
+  <g id="logoText">
+    <!-- "Publl" in primary blue -->
+    <text x="40" y="35" font-family="Poppins, sans-serif" font-size="24" font-weight="700" fill="#3498db">
+      Publl
+    </text>
+    
+    <!-- "shop" in dark blue -->
+    <text x="110" y="35" font-family="Poppins, sans-serif" font-size="24" font-weight="600" fill="#2c3e50">
+      shop
+    </text>
+  </g>
+  
+  <!-- Decorative elements - shopping related -->
+  <circle cx="170" cy="20" r="8" fill="#3498db" opacity="0.8" />
+  <path d="M20,25 C15,20 25,15 30,25" fill="none" stroke="#3498db" stroke-width="2" />
+  
+  <!-- Tagline -->
+  <text x="60" y="50" font-family="Poppins, sans-serif" font-size="10" font-weight="400" fill="#666666">
+    Quality Products at Affordable Prices
+  </text>
+</svg>

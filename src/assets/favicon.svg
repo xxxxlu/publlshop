@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="32" cy="32" r="30" fill="#ffffff" stroke="#e6f7ff" stroke-width="2"/>
+  
+  <!-- Main "P" letter for publlshop -->
+  <g id="mainIcon">
+    <!-- Stylized "P" -->
+    <path d="M22,16 L22,48 L28,48 L28,34 L36,34 C42,34 46,30 46,25 C46,20 42,16 36,16 L22,16Z" fill="#3498db"/>
+    
+    <!-- Inner detail of P -->
+    <path d="M28,22 L36,22 C38,22 40,23 40,25 C40,27 38,28 36,28 L28,28 L28,22Z" fill="#ffffff"/>
+    
+    <!-- Decorative elements -->
+    <circle cx="42" cy="40" r="4" fill="#3498db" opacity="0.7"/>
+    <circle cx="36" cy="46" r="3" fill="#3498db" opacity="0.5"/>
+  </g>
+</svg>
