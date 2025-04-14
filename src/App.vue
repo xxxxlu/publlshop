@@ -48,7 +48,6 @@
           </div>
           <div class="col-md-4 mb-4 mb-md-0">
             <h5>Contact Us</h5>
-            <p><b-icon icon="geo-alt-fill" class="mr-2"></b-icon> Pakistan</p>
             <p><b-icon icon="envelope-fill" class="mr-2"></b-icon> publlshop@publlshop.com</p>
           </div>
           <div class="col-md-4">
