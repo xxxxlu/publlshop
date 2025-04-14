@@ -27,21 +27,6 @@
 
             <div class="contact-method d-flex align-items-start mb-4">
               <div class="contact-icon mr-3">
-                <b-icon icon="geo-alt" font-scale="1.5" variant="primary"></b-icon>
-              </div>
-              <div class="contact-details">
-                <h5>Visit Us</h5>
-                <p class="text-muted mb-0">
-                  123 Main Street<br>
-                  Gulberg III<br>
-                  Lahore, Punjab<br>
-                  Pakistan
-                </p>
-              </div>
-            </div>
-
-            <div class="contact-method d-flex align-items-start mb-4">
-              <div class="contact-icon mr-3">
                 <b-icon icon="envelope" font-scale="1.5" variant="primary"></b-icon>
               </div>
               <div class="contact-details">
@@ -160,7 +145,7 @@
     </b-container>
 
     <!-- Map Section -->
-    <div class="map-section py-5 bg-light-gray">
+    <!-- <div class="map-section py-5 bg-light-gray">
       <b-container>
         <h2 class="section-title text-center mb-4">Find Us</h2>
         <div class="map-container">
@@ -175,7 +160,7 @@
           </iframe>
         </div>
       </b-container>
-    </div>
+    </div> -->
   </div>
 </template>
 

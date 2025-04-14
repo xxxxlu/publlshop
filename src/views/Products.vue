@@ -147,7 +147,7 @@ export default {
         max: ''
       },
       searchQuery: '',
-      sortBy: 'price-low',
+      sortBy: 'price-high',
       currentPage: 1,
       itemsPerPage: 12,
       sortOptions: [

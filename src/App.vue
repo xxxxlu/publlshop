@@ -60,7 +60,7 @@
           </div>
         </div>
         <div class="text-center mt-4 pt-3 border-top">
-          <p>&copy;Copyright © {{ new Date().getFullYear() }}  | Powered by Data Network Solutions (SMC-Private) Limited</p>
+          <p>Copyright © 2025 Publlshop Store. Powered by VertexFlow SMC Technologies Pvt Ltd</p>
         </div>
       </div>
     </footer>

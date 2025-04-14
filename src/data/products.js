@@ -3,7 +3,7 @@ export default [
   {
     id: 1,
     name: "Basmati Rice - 5kg",
-    price: 1200,
+    price: 11200,
     image: "https://m.media-amazon.com/images/I/51eMNyrahzL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Groceries",
     description: "Premium quality basmati rice. Long grain, aromatic and perfect for biryani and pulao.",
@@ -12,7 +12,7 @@ export default [
   {
     id: 2,
     name: "Cooking Oil - 5L",
-    price: 1350,
+    price: 5200,
     image: "https://m.media-amazon.com/images/I/61BK5x+-qtL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Groceries",
     description: "Pure cooking oil for everyday use. High quality and cholesterol free.",
@@ -21,7 +21,7 @@ export default [
   {
     id: 3,
     name: "All Purpose Flour (Maida) - 10kg",
-    price: 950,
+    price: 800,
     image: "https://m.media-amazon.com/images/I/81w7WXQ7hML._AC_UL640_FMwebp_QL65_.jpg",
     category: "Groceries",
     description: "Fine-textured, all-purpose flour perfect for baking and cooking.",
@@ -30,7 +30,7 @@ export default [
   {
     id: 4,
     name: "Sugar - 5kg",
-    price: 750,
+    price: 2160,
     image: "https://m.media-amazon.com/images/I/51+EVN+riAL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Groceries",
     description: "Refined white sugar for sweetening your tea, coffee and desserts.",
@@ -39,7 +39,7 @@ export default [
   {
     id: 5,
     name: "Milk Powder - 900g",
-    price: 1450,
+    price: 3520,
     image: "https://m.media-amazon.com/images/I/91d8vAw+TcL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Groceries",
     description: "Full cream milk powder. Rich in calcium and protein.",
@@ -48,8 +48,8 @@ export default [
   {
     id: 6,
     name: "Tea Bags - 100 Count",
-    price: 480,
-    image: "https://m.media-amazon.com/images/I/61E2EX8j7OL._AC_UL640_FMwebp_QL65_.jpg",
+    price: 1240,
+    image: "https://m.media-amazon.com/images/I/51sUz9iGrNL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Beverages",
     description: "Premium black tea bags. Strong, refreshing and aromatic.",
     stock: 65
@@ -57,7 +57,7 @@ export default [
   {
     id: 7,
     name: "Coffee - 200g",
-    price: 750,
+    price: 4600,
     image: "https://m.media-amazon.com/images/I/71CE9xJEltL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Beverages",
     description: "Instant coffee powder. Rich, aromatic and perfect to kick-start your day.",
@@ -66,7 +66,7 @@ export default [
   {
     id: 8,
     name: "Dishwashing Liquid - 1L",
-    price: 350,
+    price: 1200,
     image: "https://m.media-amazon.com/images/I/71nvEUoknbL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Cleaning",
     description: "Powerful dishwashing liquid that cuts through grease and removes tough stains.",
@@ -75,7 +75,7 @@ export default [
   {
     id: 9,
     name: "Laundry Detergent - 3kg",
-    price: 950,
+    price: 3800,
     image: "https://m.media-amazon.com/images/I/71N2lLEUiNL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Cleaning",
     description: "Powerful laundry detergent that removes stains and keeps clothes fresh.",
@@ -84,7 +84,7 @@ export default [
   {
     id: 10,
     name: "Multi-Surface Cleaner - 1L",
-    price: 420,
+    price: 3600,
     image: "https://m.media-amazon.com/images/I/51-W6IKbrfL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Cleaning",
     description: "All-purpose cleaner for countertops, floors and all hard surfaces.",
@@ -93,7 +93,7 @@ export default [
   {
     id: 11,
     name: "Bathroom Cleaner - 500ml",
-    price: 320,
+    price: 2480,
     image: "https://m.media-amazon.com/images/I/813s0CECfUL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Cleaning",
     description: "Removes soap scum, limescale and water stains from bathroom surfaces.",
@@ -102,7 +102,7 @@ export default [
   {
     id: 12,
     name: "Toilet Paper - 12 Rolls",
-    price: 750,
+    price: 1840,
     image: "https://m.media-amazon.com/images/I/61ATL4GoqkL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Household",
     description: "Soft, strong and absorbent toilet paper rolls.",
@@ -111,7 +111,7 @@ export default [
   {
     id: 13,
     name: "Paper Towels - 6 Rolls",
-    price: 550,
+    price: 1960,
     image: "https://m.media-amazon.com/images/I/81i7ILLcnuL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Household",
     description: "Absorbent and durable paper towels for everyday spills and messes.",
@@ -120,7 +120,7 @@ export default [
   {
     id: 14,
     name: "LED Bulb - 12W",
-    price: 280,
+    price: 4040,
     image: "https://m.media-amazon.com/images/I/81wKhRO66oL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Electronics",
     description: "Energy-efficient LED bulb that lasts longer and consumes less power.",
@@ -129,7 +129,7 @@ export default [
   {
     id: 15,
     name: "Hand Sanitizer - 500ml",
-    price: 350,
+    price: 11640,
     image: "https://m.media-amazon.com/images/I/619HiVU9ASL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Health & Hygiene",
     description: "Kills 99.9% of germs. Alcohol-based hand sanitizer.",
@@ -138,7 +138,7 @@ export default [
   {
     id: 16,
     name: "Toothpaste - 150g",
-    price: 250,
+    price: 5600,
     image: "https://m.media-amazon.com/images/I/61nI13RYQAL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Health & Hygiene",
     description: "Mint-flavored toothpaste for cavity protection and fresh breath.",
@@ -147,7 +147,7 @@ export default [
   {
     id: 17,
     name: "Shampoo - 400ml",
-    price: 550,
+    price: 5800,
     image: "https://m.media-amazon.com/images/I/5144sji+XAL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Health & Hygiene",
     description: "Nourishing shampoo for soft, shiny and manageable hair.",
@@ -156,7 +156,7 @@ export default [
   {
     id: 18,
     name: "Body Wash - 500ml",
-    price: 480,
+    price: 3640,
     image: "https://m.media-amazon.com/images/I/71JxjmbExxL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Health & Hygiene",
     description: "Refreshing body wash that cleanses and hydrates your skin.",
@@ -165,7 +165,7 @@ export default [
   {
     id: 19,
     name: "Deodorant Spray - 200ml",
-    price: 320,
+    price: 4160,
     image: "https://m.media-amazon.com/images/I/61zVkd-NFLL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Health & Hygiene",
     description: "24-hour protection against body odor. Fresh and long-lasting fragrance.",
@@ -174,7 +174,7 @@ export default [
   {
     id: 20,
     name: "Face Wash - 150ml",
-    price: 380,
+    price: 4040,
     image: "https://m.media-amazon.com/images/I/51DbQev1thL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Health & Hygiene",
     description: "Gentle face wash that cleanses and refreshes your skin.",
@@ -183,7 +183,7 @@ export default [
   {
     id: 21,
     name: "Moisturizer - 200ml",
-    price: 420,
+    price: 5360,
     image: "https://m.media-amazon.com/images/I/71G1bwds-SL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Health & Hygiene",
     description: "Hydrating moisturizer for soft and smooth skin.",
@@ -192,7 +192,7 @@ export default [
   {
     id: 22,
     name: "Disposable Face Masks - 50pcs",
-    price: 550,
+    price: 2960,
     image: "https://m.media-amazon.com/images/I/81wSxBWACSL._AC_UY436_FMwebp_QL65_.jpg",
     category: "Health & Hygiene",
     description: "3-ply disposable face masks for daily protection.",
@@ -201,7 +201,7 @@ export default [
   {
     id: 23,
     name: "Electric Kettle - 1.7L",
-    price: 2500,
+    price: 6680,
     image: "https://m.media-amazon.com/images/I/81O-rWbThKL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Kitchen Appliances",
     description: "Fast-boiling electric kettle with auto shut-off feature.",
@@ -210,7 +210,7 @@ export default [
   {
     id: 24,
     name: "Blender - 500W",
-    price: 3500,
+    price: 8720,
     image: "https://m.media-amazon.com/images/I/711rlNbZmkL._AC_UY436_FMwebp_QL65_.jpg",
     category: "Kitchen Appliances",
     description: "Powerful blender for smoothies, shakes and food processing.",
@@ -219,7 +219,7 @@ export default [
   {
     id: 25,
     name: "Smartphone Power Bank - 10000mAh",
-    price: 1800,
+    price: 3680,
     image: "https://m.media-amazon.com/images/I/516tnauVb+L._AC_UY436_FMwebp_QL65_.jpg",
     category: "Electronics",
     description: "Fast-charging power bank compatible with all smartphones.",
@@ -228,7 +228,7 @@ export default [
   {
     id: 26,
     name: "Fan - 16 inch",
-    price: 3200,
+    price: 6800,
     image: "https://m.media-amazon.com/images/I/816Tfe5HNvL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Electronics",
     description: "3-speed oscillating fan with timer function.",
@@ -237,7 +237,7 @@ export default [
   {
     id: 27,
     name: "Water Filter Pitcher - 2.5L",
-    price: 1500,
+    price: 5600,
     image: "https://m.media-amazon.com/images/I/71TjedQlkoL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Kitchen Appliances",
     description: "Removes impurities and improves the taste of tap water.",
@@ -246,7 +246,7 @@ export default [
   {
     id: 28,
     name: "Iron - 1200W",
-    price: 2800,
+    price: 5520,
     image: "https://m.media-amazon.com/images/I/8130-XR4zLL._AC_UY436_FMwebp_QL65_.jpg",
     category: "Electronics",
     description: "Steam iron with ceramic soleplate for smooth ironing.",
@@ -255,7 +255,7 @@ export default [
   {
     id: 29,
     name: "Laptop Backpack",
-    price: 2500,
+    price: 8720,
     image: "https://m.media-amazon.com/images/I/81idlqFqcUL._AC_UY436_FMwebp_QL65_.jpg",
     category: "Accessories",
     description: "Water-resistant backpack with laptop compartment and multiple pockets.",
@@ -264,7 +264,7 @@ export default [
   {
     id: 30,
     name: "Wireless Bluetooth Earbuds",
-    price: 3500,
+    price: 5800,
     image: "https://m.media-amazon.com/images/I/61zn4FzsUWL._AC_UY436_FMwebp_QL65_.jpg",
     category: "Electronics",
     description: "True wireless earbuds with touch controls and long battery life.",
@@ -273,7 +273,7 @@ export default [
   {
     id: 31,
     name: "Stainless Steel Water Bottle - 750ml",
-    price: 950,
+    price: 8120,
     image: "https://m.media-amazon.com/images/I/61OPIEsAXaL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Household",
     description: "Double-walled, vacuum insulated water bottle that keeps drinks hot or cold.",
@@ -282,7 +282,7 @@ export default [
   {
     id: 32,
     name: "Digital Kitchen Scale",
-    price: 1200,
+    price: 4920,
     image: "https://m.media-amazon.com/images/I/91YrLTBnMcL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Kitchen Appliances",
     description: "Accurate digital kitchen scale for precise cooking and baking measurements.",
@@ -291,7 +291,7 @@ export default [
   {
     id: 33,
     name: "Bedsheet Set - Queen",
-    price: 2200,
+    price: 8520,
     image: "https://m.media-amazon.com/images/I/71uVKmY3i8L._AC_UL640_FMwebp_QL65_.jpg",
     category: "Home & Living",
     description: "100% cotton bedsheet set with 2 pillowcases. Soft and comfortable.",
@@ -300,7 +300,7 @@ export default [
   {
     id: 34,
     name: "Bath Towel Set - 4 Pieces",
-    price: 1800,
+    price: 11640,
     image: "https://m.media-amazon.com/images/I/91emRDwf3AL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Home & Living",
     description: "Soft and absorbent cotton bath towels. Set includes 2 bath towels and 2 hand towels.",
@@ -309,7 +309,7 @@ export default [
   {
     id: 35,
     name: "Non-Stick Cookware Set",
-    price: 4500,
+    price: 25880,
     image: "https://m.media-amazon.com/images/I/81i0hGz4RUL._AC_UL640_FMwebp_QL65_.jpg",
     category: "Kitchen Appliances",
     description: "6-piece non-stick cookware set including pans and pots with glass lids.",
