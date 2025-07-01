@@ -32,7 +32,7 @@
               <div class="contact-details">
                 <h5>Email Us</h5>
                 <p class="text-muted mb-0">
-                  publlshop@publlshop.com<br>
+                  publlshop@publlshop.fun<br>
                 </p>
               </div>
             </div>

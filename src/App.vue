@@ -48,7 +48,7 @@
           </div>
           <div class="col-md-4 mb-4 mb-md-0">
             <h5>Contact Us</h5>
-            <p><b-icon icon="envelope-fill" class="mr-2"></b-icon> publlshop@publlshop.com</p>
+            <p><b-icon icon="envelope-fill" class="mr-2"></b-icon> publlshop@publlshop.fun</p>
           </div>
           <div class="col-md-4">
             <h5>Payment Methods</h5>
@@ -59,7 +59,7 @@
           </div>
         </div>
         <div class="text-center mt-4 pt-3 border-top">
-          <p>Copyright © 2025 Publlshop Store. Powered by VertexFlow SMC Technologies Pvt Ltd</p>
+          <p>Copyright © {{ new Date().getFullYear() }} Publlshop Store. Powered by VertexFlow Technologies (SMC-Private ) limited</p>
         </div>
       </div>
     </footer>

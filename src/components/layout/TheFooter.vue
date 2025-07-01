@@ -29,12 +29,8 @@
               123 Main Street, Karachi
             </li>
             <li>
-              <b-icon icon="telephone" variant="primary"></b-icon>
-              +92 123 456 7890
-            </li>
-            <li>
               <b-icon icon="envelope" variant="primary"></b-icon>
-              info@publlshop.com
+              info@publlshop.fun
             </li>
           </ul>
         </div>
@@ -58,7 +54,7 @@
       <div class="row">
         <div class="col-md-6 text-center text-md-left">
           <p class="mb-0">
-            &copy; {{ new Date().getFullYear() }} Publlshop. All rights reserved.
+            &copy; Copyright © {{ new Date().getFullYear() }} Publlshop Store. Powered by VertexFlow Technologies (SMC-Private ) limited
           </p>
         </div>
         <div class="col-md-6 text-center text-md-right">
