@@ -59,7 +59,7 @@
           </div>
         </div>
         <div class="text-center mt-4 pt-3 border-top">
-          <p>Copyright © {{ new Date().getFullYear() }} Publlshop Store. Powered by VertexFlow Technologies (SMC-Private ) limited</p>
+          <p>Copyright © {{ new Date().getFullYear() }} Publlshop Store. Powered by NTN # G115295</p>
         </div>
       </div>
     </footer>
